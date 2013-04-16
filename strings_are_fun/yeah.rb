@@ -6,3 +6,4 @@ name.each_char do |x|
 	puts "Give me a '#{x.chr.capitalize}!'"
 end
 
+
